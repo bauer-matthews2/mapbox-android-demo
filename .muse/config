@@ -1,5 +1,1 @@
-build          = "gradlew3"
-arguments      = [ "assembleAndroidTest" ]
-jdk11          = false
-androidVersion = 28
-tools          = [ "infer" ]
+tools          = [ "BadToolName" ]
