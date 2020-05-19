@@ -1,4 +1,4 @@
-build          = "gradlew"
+buil          = "gradlew"
 arguments      = [ "assembleAndroidTest" ]
 jdk11          = false
 androidVersion = 28
